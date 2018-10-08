@@ -1,0 +1,4 @@
+{
+  "hw1.py::test_greedy_assemble_with_files": true,
+  "main.py::test_greedy_assemble_with_files": true
+}
